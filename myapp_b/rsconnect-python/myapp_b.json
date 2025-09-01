@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "F:\\F GitHub Project\\5243Team5_Project3_Test\\myapp_b",
+        "app_url": "https://5243project3.shinyapps.io/myapp_b/",
+        "app_id": 14577026,
+        "app_guid": null,
+        "title": "myapp_b",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
